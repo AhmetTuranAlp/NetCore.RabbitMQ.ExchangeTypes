@@ -1,0 +1,12 @@
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\bin\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.deps.json
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\bin\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.dll
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\bin\Debug\net5.0\ref\NetCore.RabbitMQ.ExchangeTypes.Operations.dll
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\bin\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.pdb
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\obj\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.csproj.AssemblyReference.cache
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\obj\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\obj\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.AssemblyInfoInputs.cache
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\obj\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.AssemblyInfo.cs
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\obj\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.csproj.CoreCompileInputs.cache
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\obj\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.dll
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\obj\Debug\net5.0\ref\NetCore.RabbitMQ.ExchangeTypes.Operations.dll
+D:\GithupProjects\NetCore.RabbitMQ.ExchangeTypes\NetCore.RabbitMQ.ExchangeTypes.Operations\obj\Debug\net5.0\NetCore.RabbitMQ.ExchangeTypes.Operations.pdb

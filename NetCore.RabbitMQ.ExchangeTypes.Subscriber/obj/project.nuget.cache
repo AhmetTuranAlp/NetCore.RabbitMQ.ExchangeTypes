@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ncu3ZNBGUQoPH9zfBRpfRGv6CxRFQZh0gKnILCL0cxeYvTgIojRpfNulWDohyYU5tseTR76swUgv6qbWkVRCTQ==",
+  "dgSpecHash": "fDy/x//4UOFtWD93OICRo9mM7akk0gKKCJGJptq1aitl9LYgbphNtMezBDfoPMcnUy3u2J4j917K32I/i6aAKQ==",
   "success": true,
   "projectFilePath": "D:\\GithupProjects\\NetCore.RabbitMQ.ExchangeTypes\\NetCore.RabbitMQ.ExchangeTypes.Subscriber\\NetCore.RabbitMQ.ExchangeTypes.Subscriber.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
