@@ -9,5 +9,6 @@ namespace NetCore.RabbitMQ.ExchangeTypes.Operations.Common
     public class StaticValue
     {
         public static string FanoutExchange = "fanout-exchange";
+        public static string DirectExchange = "direct-exchange";
     }
 }

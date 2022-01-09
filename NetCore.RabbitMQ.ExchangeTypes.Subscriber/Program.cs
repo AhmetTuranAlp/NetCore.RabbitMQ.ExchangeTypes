@@ -12,7 +12,13 @@ namespace NetCore.RabbitMQ.ExchangeTypes.Subscriber
     {
         static void Main(string[] args)
         {
+  
+        }
+
+        public void FanoutExchange()
+        {
             var connection = RabbitMQConnection.GetRabbitMQConnection();
+
             using var channer = connection.CreateModel();
 
             var queueName = channer.QueueDeclare().QueueName;
@@ -21,7 +27,7 @@ namespace NetCore.RabbitMQ.ExchangeTypes.Subscriber
             var consumer = new EventingBasicConsumer(channer);
             channer.BasicConsume(queueName, false, consumer);
 
-            Console.WriteLine("Kanal Dinleniyor."); 
+            Console.WriteLine("Kanal Dinleniyor.");
 
             consumer.Received += (object sender, BasicDeliverEventArgs e) =>
             {
